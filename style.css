@@ -52,8 +52,8 @@ img.bie {
 }
 .text{
     padding: 1em;
+    overflow: hidden;
 }
-
 .muted{
     opacity: 0.8;
 }
