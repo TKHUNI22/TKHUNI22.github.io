@@ -1,5 +1,5 @@
 body {
-    background: #bb043b;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(bday.gif);
     display: grid;
     place-items: center;
     height: 100vh;
@@ -8,7 +8,7 @@ body {
 }
 
 .card {
-    background: #fdfdfd;
+    background: #bb043b;
     border-radius: 4px;
     height: 85vh;
     width: 85vw;
@@ -49,6 +49,7 @@ body {
 
 img.bie {
     max-width: 25.3vh;
+    justify-content: center;
 }
 .text{
     padding: 1em;
